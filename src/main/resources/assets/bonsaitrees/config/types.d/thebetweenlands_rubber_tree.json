@@ -1,0 +1,34 @@
+{
+    "name": "thebetweenlands:rubber_tree",
+    "mod": "thebetweenlands",
+    "sapling": {
+        "name": "thebetweenlands:sapling_rubber",
+        "data": 0
+    },
+    "growTimeMultiplier": 1,
+    "drops": [
+        {
+            "name": "thebetweenlands:log_rubber",
+            "data": 0,
+            "type": "WOOD"
+        },
+        {
+            "name": "thebetweenlands:sapling_rubber",
+            "data": 0,
+            "type": "SAPLING"
+        },
+        {
+            "name": "thebetweenlands:leaves_rubber_tree",
+            "data": 0,
+            "type": "LEAVES"
+        },
+        {
+            "name": "thebetweenlands:items_misc",
+            "data": 23,
+            "type": "CUSTOM",
+			"count": 1,
+			"chance": .1
+        }
+    ],
+	"compatibleSoilTags": [ "swamp" ]
+}

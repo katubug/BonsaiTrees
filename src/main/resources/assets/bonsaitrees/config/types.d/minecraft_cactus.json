@@ -1,0 +1,26 @@
+{
+    "name": "minecraft:cactus",
+    "sapling": {
+        "name": "minecraft:cactus",
+        "data": 0
+    },
+    "growTimeMultiplier": 1,
+    "drops": [
+        {
+            "name": "minecraft:cactus",
+            "data": 0,
+            "type": "WOOD"
+        },
+        {
+            "name": "minecraft:dye",
+            "data": 2,
+            "type": "LEAVES"
+        },
+        {
+            "name": "harvestcraft:cactusfruititem",
+            "data": 0,
+            "type": "FRUIT"
+        }
+    ],
+	"compatibleSoilTags": [ "sand" ]
+}

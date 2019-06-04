@@ -1,0 +1,21 @@
+{
+    "name": "minecraft:brownmushroom",
+    "sapling": {
+        "name": "minecraft:brown_mushroom",
+        "data": 0
+    },
+    "growTimeMultiplier": 1,
+    "drops": [
+        {
+            "name": "minecraft:brown_mushroom_block",
+            "data": 0,
+            "type": "WOOD"
+        },
+        {
+            "name": "minecraft:brown_mushroom",
+            "data": 0,
+            "type": "FRUIT"
+        }
+    ],
+	"compatibleSoilTags": [ "mycelium" ]
+}

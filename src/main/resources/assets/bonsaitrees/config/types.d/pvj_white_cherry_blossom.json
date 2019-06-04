@@ -1,11 +1,11 @@
 {
-    "name": "twilightforest:treeoftime",
-    "mod": "twilightforest",
+    "name": "pvj:white_cherry_blossom",
+    "mod": "pvj",
     "sapling": {
-        "name": "twilightforest:twilight_sapling",
-        "data": 5
+        "name": "pvj:sapling_white_cherry_blossom",
+        "data": 0
     },
-    "growTimeMultiplier": 3,
+    "growTimeMultiplier": 1,
     "drops": [
         {
             "name": "minecraft:stick",
@@ -13,17 +13,17 @@
             "type": "STICK"
         },
         {
-            "name": "twilightforest:magic_log",
+            "name": "pvj:log_cherry_blossom",
             "data": 0,
             "type": "WOOD"
         },
         {
-            "name": "twilightforest:twilight_sapling",
-            "data": 5,
+            "name": "pvj:sapling_white_cherry_blossom",
+            "data": 0,
             "type": "SAPLING"
         },
         {
-            "name": "twilightforest:magic_leaves",
+            "name": "pvj:leaves_white_cherry_blossom",
             "data": 0,
             "type": "LEAVES"
         }

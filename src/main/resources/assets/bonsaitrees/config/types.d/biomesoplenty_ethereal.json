@@ -1,11 +1,11 @@
 {
-    "name": "twilightforest:sortingtree",
-    "mod": "twilightforest",
+    "name": "biomesoplenty:ethereal",
+    "mod": "biomesoplenty",
     "sapling": {
-        "name": "twilightforest:twilight_sapling",
+        "name": "biomesoplenty:sapling_0",
         "data": 7
     },
-    "growTimeMultiplier": 3,
+    "growTimeMultiplier": 1,
     "drops": [
         {
             "name": "minecraft:stick",
@@ -13,18 +13,18 @@
             "type": "STICK"
         },
         {
-            "name": "twilightforest:magic_log",
-            "data": 2,
+            "name": "biomesoplenty:log_1",
+            "data": 4,
             "type": "WOOD"
         },
         {
-            "name": "twilightforest:twilight_sapling",
+            "name": "biomesoplenty:sapling_0",
             "data": 7,
             "type": "SAPLING"
         },
         {
-            "name": "twilightforest:magic_leaves",
-            "data": 2,
+            "name": "biomesoplenty:leaves_1",
+            "data": 11,
             "type": "LEAVES"
         }
     ]

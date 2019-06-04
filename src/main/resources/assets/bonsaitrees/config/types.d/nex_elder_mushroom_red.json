@@ -1,0 +1,28 @@
+{
+    "name": "nex:elder_mushroom_red",
+    "sapling": {
+        "name": "nex:elder_mushroom",
+        "data": 1
+    },
+    "growTimeMultiplier": 1,
+    "drops": [
+        {
+            "name": "nex:elder_mushroom_cap",
+            "data": 1,
+            "type": "WOOD"
+        },
+        {
+            "name": "nex:elder_mushroom",
+            "data": 1,
+            "type": "FRUIT"
+        },
+		{
+            "name": "nex:enoki_mushroom",
+            "data": 0,
+            "type": "CUSTOM",
+			"count": 1,
+			"chance": .01
+        }
+    ],
+	"compatibleSoilTags": [ "mycelium", "netherrack" ]
+}
