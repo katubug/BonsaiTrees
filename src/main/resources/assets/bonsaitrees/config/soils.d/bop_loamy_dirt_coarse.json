@@ -1,0 +1,16 @@
+{
+  "name": "biomesoplenty:coarse_loamy_dirt",
+  "mod": "biomesoplenty",
+  "soil": {
+    "name": "biomesoplenty:dirt",
+    "data": 8,
+    "ignoreMeta": false
+  },
+
+  "modifiers": {
+    "growTime": 1,
+    "dropChance": 1
+  },
+
+  "providedTags": [ "dirt", "grass" ]
+}

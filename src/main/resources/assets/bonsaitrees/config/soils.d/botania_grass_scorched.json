@@ -1,0 +1,16 @@
+{
+  "name": "botania:grass_scorched",
+  "mod": "botania",
+  "soil": {
+    "name": "botania:altgrass",
+    "data": 3,
+    "ignoreMeta": false
+  },
+
+  "modifiers": {
+    "growTime": 1.1,
+    "dropChance": 0.9
+  },
+
+  "providedTags": [ "dirt", "grass" ]
+}

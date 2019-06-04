@@ -1,0 +1,16 @@
+{
+  "name": "randomthings:coloredgrass_orange",
+  "mod": "randomthings",
+  "soil": {
+    "name": "randomthings:coloredgrass",
+    "data": 1,
+    "ignoreMeta": false
+  },
+
+  "modifiers": {
+    "growTime": 1.1,
+    "dropChance": 0.9
+  },
+
+  "providedTags": [ "dirt", "grass" ]
+}

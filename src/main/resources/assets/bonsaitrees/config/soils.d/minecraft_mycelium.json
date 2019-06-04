@@ -1,0 +1,15 @@
+{
+  "name": "minecraft:mycelium",
+  "soil": {
+    "name": "minecraft:mycelium",
+    "data": 0,
+    "ignoreMeta": false
+  },
+
+  "modifiers": {
+    "growTime": 1.1,
+    "dropChance": 0.9
+  },
+
+  "providedTags": [ "mycelium" ]
+}

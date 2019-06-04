@@ -1,0 +1,16 @@
+{
+  "name": "biomesoplenty:loamy_grass",
+  "mod": "biomesoplenty",
+  "soil": {
+    "name": "biomesoplenty:grass",
+    "data": 2,
+    "ignoreMeta": false
+  },
+
+  "modifiers": {
+    "growTime": 0.9,
+    "dropChance": 1.1
+  },
+
+  "providedTags": [ "dirt", "grass" ]
+}
