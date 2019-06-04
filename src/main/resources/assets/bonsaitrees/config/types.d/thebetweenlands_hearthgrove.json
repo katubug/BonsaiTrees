@@ -32,7 +32,7 @@
             "data": 0,
             "type": "CUSTOM",
 			"count": 1,
-			"chance": .1
+			"chance": 0.1
         }
     ],
 	"compatibleSoilTags": [ "swamp" ]
