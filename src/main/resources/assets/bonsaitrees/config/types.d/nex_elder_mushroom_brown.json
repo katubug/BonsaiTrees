@@ -21,7 +21,7 @@
             "data": 0,
             "type": "CUSTOM",
 			"count": 1,
-			"chance": .01
+			"chance": 0.01
         }
     ],
 	"compatibleSoilTags": [ "mycelium", "netherrack" ]
