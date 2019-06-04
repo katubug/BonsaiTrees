@@ -1,0 +1,129 @@
+{
+  "type": "thebetweenlands:hearthgrove",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "thebetweenlands:leaves_hearthgrove_tree",
+      "meta": 0
+    },
+    "b": {
+      "name": "thebetweenlands:hanger",
+      "meta": 1
+    },
+    "c": {
+      "name": "thebetweenlands:log_hearthgrove",
+      "meta": 3
+    },
+    "d": {
+      "name": "thebetweenlands:log_hearthgrove",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "    a    ",
+      "  aaaa   ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "    a    ",
+      "  aaaa   ",
+      " aaaaaa  ",
+      "    b    ",
+      "    b    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "    c    "
+    ],
+    [
+      "   aaa   ",
+      "  aaaaa  ",
+      " aaa aaa ",
+      " b   b   ",
+      " b   b   ",
+      "     b   ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "    c    ",
+      "         "
+    ],
+    [
+      "  aaaaa  ",
+      " aaa aaa ",
+      " aacc aa ",
+      "  bcd    ",
+      "  b d    ",
+      "    d    ",
+      "    d    ",
+      "    d    ",
+      "    d    ",
+      "    d    ",
+      "    d    ",
+      "   cd    ",
+      "   c     "
+    ],
+    [
+      "   aaa   ",
+      "  aaaaa  ",
+      "aaaacaaaa",
+      "b   c    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "     c   ",
+      "     c   "
+    ],
+    [
+      "    a    ",
+      "  aaaaa  ",
+      " aaaaaaa ",
+      "    b  b ",
+      "    b  b ",
+      "    b  b ",
+      "    b  b ",
+      "    b    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "    a    ",
+      "  aaaaa  ",
+      "  b      ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ]
+}

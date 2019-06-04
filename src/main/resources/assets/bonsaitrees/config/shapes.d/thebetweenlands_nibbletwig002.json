@@ -1,0 +1,124 @@
+{
+  "type": "thebetweenlands:nibbletwig",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "thebetweenlands:leaves_nibbletwig_tree",
+      "meta": 0
+    },
+    "b": {
+      "name": "thebetweenlands:poison_ivy",
+      "meta": 1
+    },
+    "c": {
+      "name": "thebetweenlands:log_nibbletwig",
+      "meta": 12
+    },
+    "d": {
+      "name": "thebetweenlands:poison_ivy",
+      "meta": 2
+    },
+    "e": {
+      "name": "thebetweenlands:poison_ivy",
+      "meta": 8
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "     d ",
+      "     d ",
+      "     d ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "     a ",
+      "     a ",
+      "   d a ",
+      "   d   ",
+      "   d   ",
+      "   d   ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "   aaa ",
+      "   aaa ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "    a  ",
+      "  aaaaa",
+      "  aaaaa",
+      "   a   ",
+      "  aaa  ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "    a  ",
+      "   aaa ",
+      "  aacaa",
+      " baacaa",
+      " baca  ",
+      "baacaa ",
+      "baac a ",
+      "ba c a ",
+      "b  c   ",
+      "b  c   "
+    ],
+    [
+      "       ",
+      "    a  ",
+      "  aaaaa",
+      "  aaaaa",
+      "   a   ",
+      "  aaa  ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "   aaa ",
+      "   aaa ",
+      "       ",
+      "   a   ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "   e   ",
+      "   e   ",
+      "   e   ",
+      "       ",
+      "       "
+    ]
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "type": "biomesoplenty:ethereal",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "biomesoplenty:leaves_1",
+      "meta": 15
+    },
+    "b": {
+      "name": "biomesoplenty:leaves_1",
+      "meta": 7
+    },
+    "c": {
+      "name": "biomesoplenty:log_1",
+      "meta": 8
+    },
+    "d": {
+      "name": "biomesoplenty:log_1",
+      "meta": 4
+    },
+    "e": {
+      "name": "biomesoplenty:log_1",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   a   ",
+      "  aaa  ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "   a   ",
+      "  aea  ",
+      " aaaaa ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "   b   ",
+      "  aaa  ",
+      " aaeaa ",
+      "aaaaaaa",
+      "       ",
+      "       ",
+      "   d   "
+    ],
+    [
+      "   b   ",
+      "  bbb  ",
+      " aabba ",
+      "aaadcaa",
+      "aaadaaa",
+      "   d   ",
+      "   d   ",
+      "  ddd  "
+    ],
+    [
+      "       ",
+      "   b   ",
+      "  abb  ",
+      " aaeaa ",
+      "aaaaaaa",
+      "       ",
+      "       ",
+      "   d   "
+    ],
+    [
+      "       ",
+      "       ",
+      "   a   ",
+      "  aea  ",
+      " aaaaa ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   a   ",
+      "  aaa  ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

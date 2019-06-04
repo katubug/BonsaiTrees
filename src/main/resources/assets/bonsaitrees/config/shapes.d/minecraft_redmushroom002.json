@@ -1,0 +1,104 @@
+{
+  "type": "minecraft:redmushroom",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 2
+    },
+    "c": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 4
+    },
+    "d": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 1
+    },
+    "e": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 3
+    },
+    "f": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 10
+    },
+    "g": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 7
+    },
+    "h": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 8
+    },
+    "i": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 6
+    },
+    "k": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 9
+    },
+    "l": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 5
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      " eik ",
+      " eik ",
+      " eik ",
+      "     ",
+      "     "
+    ],
+    [
+      " eik ",
+      "e   k",
+      "e   k",
+      "e   k",
+      "     ",
+      "     "
+    ],
+    [
+      " alh ",
+      "a f h",
+      "a f h",
+      "a f h",
+      "  f  ",
+      "  f  "
+    ],
+    [
+      " dcg ",
+      "d   g",
+      "d   g",
+      "d   g",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " dcg ",
+      " dcg ",
+      " dcg ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

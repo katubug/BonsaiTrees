@@ -1,0 +1,113 @@
+{
+  "type": "biomesoplenty:ethereal",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "biomesoplenty:leaves_1",
+      "meta": 15
+    },
+    "b": {
+      "name": "biomesoplenty:log_1",
+      "meta": 4
+    },
+    "c": {
+      "name": "biomesoplenty:leaves_1",
+      "meta": 7
+    },
+    "d": {
+      "name": "minecraft:leaves2",
+      "meta": 0
+    },
+    "e": {
+      "name": "minecraft:log2",
+      "meta": 0
+    },
+    "f": {
+      "name": "biomesoplenty:log_1",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "   aaa ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "   aca ",
+      "  aaaaa",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "   aaa ",
+      " acabaa",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "   aaa ",
+      " aaadaa",
+      "    b  ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  aaa  ",
+      "aaaaaaa",
+      "       ",
+      "    f  ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      " aaaaa ",
+      "aaaeaaa",
+      "   b   ",
+      "    b  ",
+      "    b  ",
+      "    b  ",
+      "    b  "
+    ],
+    [
+      "  aaa  ",
+      "aaaaaaa",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "   a   ",
+      "aaaaaa ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "  aaa  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

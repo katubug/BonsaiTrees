@@ -1,0 +1,163 @@
+{
+  "type": "pvj:jacaranda",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "pvj:leaves_jacaranda",
+      "meta": 1
+    },
+    "b": {
+      "name": "pvj:log_jacaranda",
+      "meta": 0
+    },
+    "c": {
+      "name": "pvj:leaves_jacaranda",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "  a          ",
+      " a c    a    ",
+      "   aaaa a    ",
+      "a     a c    ",
+      "      ac a   ",
+      "        aa   ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "a a          ",
+      "aaaa         ",
+      "aaaaaaaaa    ",
+      " aaaaaaaaa   ",
+      "      aaa    ",
+      "        a    ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "   aa        ",
+      " aaaaa aca aa",
+      "aabaacaac aa ",
+      " aaaaaabaca a",
+      "  a  aacaac a",
+      "       aac   ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "    a   a   a",
+      "aaacaaa aaaa ",
+      "aaabaaaaaaca ",
+      " aaaaaabacaaa",
+      "  aaaaaaaa aa",
+      "     aaa     ",
+      "       bb    ",
+      "        b    ",
+      "        b    ",
+      "        b    ",
+      "        b    "
+    ],
+    [
+      "  aaa a  a aa",
+      " acaaaacacaaa",
+      "a aabaaaabbaa",
+      "a caabaabbaa ",
+      "   aabbbbaaa ",
+      "   aaaaba a  ",
+      "    a  b     ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "  aaaaa   a  ",
+      "  aaaaaaaaaa ",
+      " aaaaaaaaaac ",
+      "   aaabaaaaa ",
+      " aaaaaaaaaa  ",
+      "    aaaaa a  ",
+      "      a      ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "   aa a      ",
+      "  aaacacaaaaa",
+      "   aaaaaaaa  ",
+      "  a aabaaaaa ",
+      "   aaaaaa  aa",
+      "    caa a a  ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "     aaa     ",
+      "   aaaaa     ",
+      "    abaaa    ",
+      "   aaaac     ",
+      "   aaaaaa    ",
+      "     a       ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "      a      ",
+      "    aaa      ",
+      "   aabaaa    ",
+      "   aaaaa     ",
+      "       a     ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "   a   a     ",
+      "   caaac     ",
+      "    aaaa     ",
+      "   aaaaa     ",
+      "    c  a     ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "    aac      ",
+      "     a       ",
+      "   a         ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ]
+  ]
+}

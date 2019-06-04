@@ -1,0 +1,108 @@
+{
+  "type": "thebetweenlands:spirit_tree",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "thebetweenlands:leaves_spirit_tree_middle",
+      "meta": 0
+    },
+    "b": {
+      "name": "thebetweenlands:leaves_spirit_tree_top",
+      "meta": 0
+    },
+    "c": {
+      "name": "thebetweenlands:log_spirit_tree",
+      "meta": 12
+    },
+    "d": {
+      "name": "thebetweenlands:leaves_spirit_tree_bottom",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "  b      ",
+      " ba      ",
+      " ad      ",
+      " a       ",
+      " d       ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "  b  bb  ",
+      " bcbbba  ",
+      "bcbaaaa  ",
+      "a adddd  ",
+      "d a      ",
+      "  d      ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "    c    "
+    ],
+    [
+      "     bb  ",
+      "   bbccb ",
+      "  bcccba ",
+      " bacccad ",
+      " ad   b  ",
+      " d    a  ",
+      "      d  ",
+      "         ",
+      "         ",
+      "         ",
+      "    c    ",
+      "    cccc "
+    ],
+    [
+      "    b    ",
+      "   bcbb  ",
+      "   bcbbb ",
+      "   accaa ",
+      "   acbca ",
+      "   dcc d ",
+      "    c    ",
+      "    c    ",
+      "    c    ",
+      "    c    ",
+      "    c    ",
+      "    c    "
+    ],
+    [
+      "    b    ",
+      "   bcbbb ",
+      "   abaccb",
+      "   dad  a",
+      "   bcbbbd",
+      "   a aacb",
+      "   a da a",
+      "   d  d a",
+      "        a",
+      "        d",
+      "         ",
+      "  cc     "
+    ],
+    [
+      "         ",
+      "    b    ",
+      "    a bb ",
+      "    d aa ",
+      "    b dd ",
+      "    a  b ",
+      "    d  a ",
+      "       a ",
+      "       d ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ]
+}

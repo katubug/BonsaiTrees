@@ -4,24 +4,28 @@
   "ref": {
     "a": {
       "name": "twilightforest:magic_leaves",
-      "meta": 14
+      "meta": 10
     },
     "b": {
       "name": "twilightforest:magic_log",
       "meta": 14
     },
     "c": {
-      "name": "twilightforest:magic_log_core",
+      "name": "twilightforest:magic_leaves",
       "meta": 2
+    },
+    "d": {
+      "name": "twilightforest:magic_log_core",
+      "meta": 14
     }
   },
   "shape": [
     [
       "    aaaaa    ",
       "   aaaaaaa   ",
-      "  aaaaaaaaa  ",
-      " aaa     aaa ",
-      "aaa       aaa",
+      "  aaaacaaaa  ",
+      " aca     aaa ",
+      "aaa       aca",
       "             ",
       "             ",
       "             ",
@@ -39,14 +43,14 @@
       "      b      ",
       "      b      ",
       "      b      ",
-      "      c      ",
+      "      d      ",
       "      b      "
     ],
     [
-      "    aaaaa    ",
+      "    acaaa    ",
       "   aaaaaaa   ",
       "  aaaaaaaaa  ",
-      " aaa     aaa ",
+      " aaa     caa ",
       "aaa       aaa",
       "             ",
       "             ",

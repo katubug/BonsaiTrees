@@ -1,0 +1,209 @@
+{
+  "type": "pvj:willow",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "pvj:leaves_willow",
+      "meta": 0
+    },
+    "b": {
+      "name": "pvj:log_willow",
+      "meta": 0
+    },
+    "c": {
+      "name": "minecraft:vine",
+      "meta": 8
+    },
+    "d": {
+      "name": "minecraft:vine",
+      "meta": 2
+    },
+    "e": {
+      "name": "pvj:leaves_willow",
+      "meta": 1
+    },
+    "f": {
+      "name": "minecraft:vine",
+      "meta": 12
+    },
+    "g": {
+      "name": "pvj:crabgrass",
+      "meta": 0
+    },
+    "h": {
+      "name": "minecraft:vine",
+      "meta": 4
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " a     ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      " a     ",
+      "       ",
+      "aaaaa  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      " a     ",
+      " aaa   ",
+      "aabad  ",
+      " aaaa  ",
+      " a ad  ",
+      "    d  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "     g "
+    ],
+    [
+      " aaa   ",
+      "aaaaa  ",
+      "aabaah ",
+      "aeba h ",
+      " aaa h ",
+      "     h ",
+      "     h ",
+      "     h ",
+      "     h ",
+      "     h ",
+      "       "
+    ],
+    [
+      " aaa   ",
+      "aaa    ",
+      "aaaac  ",
+      " abac  ",
+      "aaaaa  ",
+      "    c  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  a    ",
+      " aea   ",
+      "aeaaa  ",
+      " aaaa  ",
+      " ab    ",
+      " ebae  ",
+      " aaaa  ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  c    ",
+      "  c    ",
+      "  c    ",
+      "eaaa   ",
+      "aaaaa  ",
+      "aaba   ",
+      " aba   ",
+      "       ",
+      "       ",
+      "       ",
+      "      b"
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "aaaa   ",
+      "aaaaa  ",
+      " abad  ",
+      "aab d  ",
+      "  bbd  ",
+      "   bb  ",
+      "    bbb",
+      "     bb"
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "aaaaa  ",
+      "aabaa  ",
+      " abaah ",
+      " aaa h ",
+      "     h ",
+      "     h ",
+      "     h ",
+      "     fb"
+    ],
+    [
+      " aaa   ",
+      " eaaa  ",
+      "aaaea  ",
+      "aabaa  ",
+      "aabaa  ",
+      "aaeaa  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      " e     ",
+      " aaa   ",
+      "aabaa  ",
+      "aabaa  ",
+      "aaaa   ",
+      "aaaaa  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      " aa    ",
+      "aaaa   ",
+      "aaaaa  ",
+      "aaaaa  ",
+      "aaaa   ",
+      " aaa   ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      " aaa   ",
+      " a a   ",
+      " aca   ",
+      " aa    ",
+      "  c    ",
+      "  c    ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

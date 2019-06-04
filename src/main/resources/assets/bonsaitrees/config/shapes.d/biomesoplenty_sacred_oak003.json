@@ -1,0 +1,147 @@
+{
+  "type": "biomesoplenty:sacred_oak",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "biomesoplenty:leaves_3",
+      "meta": 15
+    },
+    "b": {
+      "name": "biomesoplenty:leaves_3",
+      "meta": 7
+    },
+    "c": {
+      "name": "biomesoplenty:log_0",
+      "meta": 4
+    },
+    "d": {
+      "name": "minecraft:vine",
+      "meta": 8
+    },
+    "e": {
+      "name": "biomesoplenty:log_0",
+      "meta": 0
+    },
+    "f": {
+      "name": "minecraft:vine",
+      "meta": 2
+    },
+    "g": {
+      "name": "biomesoplenty:log_0",
+      "meta": 8
+    },
+    "h": {
+      "name": "minecraft:vine",
+      "meta": 3
+    },
+    "i": {
+      "name": "minecraft:vine",
+      "meta": 1
+    },
+    "j": {
+      "name": "minecraft:vine",
+      "meta": 4
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "         ",
+      "    bf   ",
+      "   fef   ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "    b    ",
+      "   bbb   ",
+      "   bbbf  ",
+      "    e    ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "    b    ",
+      "   bbb   ",
+      "  bbbbb  ",
+      " habcbbf ",
+      "    e    ",
+      "         ",
+      "         ",
+      "    e    "
+    ],
+    [
+      "    b    ",
+      "   bbb   ",
+      "  abbbb  ",
+      "ibabbbbb ",
+      "iaabbbbbj",
+      "    e    ",
+      "         ",
+      "    c    ",
+      "   ccc   "
+    ],
+    [
+      "   bbb   ",
+      "  bbbbb  ",
+      " babbbab ",
+      "aaabaaabb",
+      "gacbbbcbg",
+      " gggcggg ",
+      "    c    ",
+      "   ccc   ",
+      "  gcccg  "
+    ],
+    [
+      "    b    ",
+      "   bbb   ",
+      "  abbba  ",
+      " babaaab ",
+      " bbbbbbbj",
+      "    e    ",
+      "         ",
+      "    c    ",
+      "   ccc   "
+    ],
+    [
+      "         ",
+      "    b    ",
+      "   baa   ",
+      "  aaaaa  ",
+      "  aacbbj ",
+      "    e    ",
+      "         ",
+      "         ",
+      "    e    "
+    ],
+    [
+      "         ",
+      "         ",
+      "    b    ",
+      "   bbb   ",
+      "   aabd  ",
+      "    e    ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "    b    ",
+      "    ed   ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ]
+}

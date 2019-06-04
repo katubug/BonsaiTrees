@@ -1,0 +1,65 @@
+{
+  "type": "pvj:pink_cherry_blossom",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "biomesoplenty:leaves_2",
+      "meta": 1
+    },
+    "b": {
+      "name": "biomesoplenty:log_0",
+      "meta": 5
+    },
+    "c": {
+      "name": "biomesoplenty:leaves_2",
+      "meta": 9
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "aaaa ",
+      "aaaa ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      " cc  ",
+      "accca",
+      "accca",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ccc ",
+      " cbc ",
+      "acbca",
+      "acbca",
+      "  b  ",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "  c  ",
+      "  c  ",
+      "accca",
+      "accca",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " aaaa",
+      "aaaa ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "type": "thebetweenlands:rubber_tree",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "thebetweenlands:log_rubber",
+      "meta": 1
+    },
+    "b": {
+      "name": "thebetweenlands:leaves_rubber_tree",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "    b    ",
+      "    b    ",
+      "   b bb  ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "   bb    ",
+      "  bbbbb  ",
+      " bbbbbbb ",
+      "   bab b ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "  bb bb  ",
+      " b bbbbb ",
+      " bb  b b ",
+      " bbbabbbb",
+      "    a    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      " bb b bb ",
+      " b bb bb ",
+      "bbbbb   b",
+      "bbb bb bb",
+      "    a    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      " b bb bb ",
+      "bbbbbbbbb",
+      "bbbbbbb b",
+      "baababaab",
+      "  aaaaa  ",
+      "    a    ",
+      "    a    ",
+      "    a    ",
+      "    a    ",
+      "    a    ",
+      "    a    ",
+      "    a    ",
+      "    a    "
+    ],
+    [
+      "  bb  bb ",
+      " bb bbbb ",
+      " bbbbb  b",
+      "bbbbbbbbb",
+      "    a    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "   bbbb  ",
+      " bbbb bb ",
+      "   bbbbb ",
+      "b bbabbbb",
+      "    a    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "     b   ",
+      "  bbbbb  ",
+      "  bbbbbb ",
+      " bbbab b ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "    b    ",
+      "   bb    ",
+      "  bbbbb  ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ]
+}
