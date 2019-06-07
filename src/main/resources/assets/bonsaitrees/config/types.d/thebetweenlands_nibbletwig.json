@@ -1,0 +1,39 @@
+{
+    "name": "thebetweenlands:nibbletwig",
+    "mod": "thebetweenlands",
+    "sapling": {
+        "name": "thebetweenlands:sapling_nibbletwig",
+        "data": 0
+    },
+    "growTimeMultiplier": 1,
+    "drops": [
+        {
+            "name": "thebetweenlands:log_nibbletwig",
+            "data": 0,
+            "type": "WOOD"
+        },
+		{
+            "name": "thebetweenlands:log_nibbletwig",
+            "data": 12,
+            "type": "WOOD"
+        },
+        {
+            "name": "thebetweenlands:sapling_nibbletwig",
+            "data": 0,
+            "type": "SAPLING"
+        },
+        {
+            "name": "thebetweenlands:leaves_nibbletwig_tree",
+            "data": 0,
+            "type": "LEAVES"
+        },
+		{
+            "name": "thebetweenlands:poison_ivy",
+            "data": 0,
+            "type": "CUSTOM",
+			"count": 1,
+			"chance": 0.1
+        }
+    ],
+	"compatibleSoilTags": [ "swamp" ]
+}

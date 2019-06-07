@@ -1,0 +1,38 @@
+{
+    "name": "extrautils2:ferrous_juniper",
+    "mod": "extrautils2",
+    "sapling": {
+        "name": "extrautils2:ironwood_sapling",
+        "data": 0
+    },
+    "growTimeMultiplier": 2,
+    "drops": [
+        {
+            "name": "minecraft:stick",
+            "data": 0,
+            "type": "STICK"
+        },
+        {
+            "name": "extrautils2:ironwood_log",
+            "data": 0,
+            "type": "WOOD"
+        },
+        {
+            "name": "extrautils2:ironwood_sapling",
+            "data": 0,
+            "type": "SAPLING"
+        },
+        {
+            "name": "extrautils2:ironwood_leaves",
+            "data": 0,
+            "type": "LEAVES"
+        },
+		{
+            "name": "minecraft:iron_nugget",
+            "data": 0,
+            "type": "CUSTOM",
+			"count": 1,
+			"chance": 0.1
+        }
+    ]
+}
