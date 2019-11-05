@@ -1,0 +1,172 @@
+{
+  "type": "pvj:aspen",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "pvj:leaves_aspen",
+      "meta": 0
+    },
+    "b": {
+      "name": "pvj:log_aspen",
+      "meta": 0
+    },
+    "c": {
+      "name": "pvj:leaves_aspen",
+      "meta": 1
+    },
+    "d": {
+      "name": "pvj:log_aspen",
+      "meta": 1
+    },
+    "e": {
+      "name": "pvj:log_aspen",
+      "meta": 2
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "    a    ",
+      "    a    ",
+      "    a    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "   aaa   ",
+      "   ada   ",
+      "   aaa   ",
+      "    a    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "    a    ",
+      "    a    ",
+      "   ca    ",
+      "   cac   ",
+      "   cdc   ",
+      "   aaa   ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "    a    ",
+      "    a    ",
+      "   aaa   ",
+      "   cdc   ",
+      "   caaa  ",
+      " aaaacca ",
+      "aaacdccaa",
+      " accccca ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "   aaa   ",
+      "   aba   ",
+      "  acbca  ",
+      "  aebea  ",
+      "  aabaa  ",
+      "aaacbcaaa",
+      "aeeebeeea",
+      "aaacbcaca",
+      "    b    ",
+      "    b    ",
+      "    b    ",
+      "    b    ",
+      "    b    ",
+      "    b    "
+    ],
+    [
+      "    a    ",
+      "   aa    ",
+      "  aaaa   ",
+      "   cdc   ",
+      "   aac   ",
+      " accaccaa",
+      " accdcca ",
+      " acaccaa ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "    a    ",
+      "   aaa   ",
+      "    a    ",
+      "   aac   ",
+      "   cdc   ",
+      "   aaa   ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "   aaa   ",
+      "   ada   ",
+      "   aca   ",
+      "    a    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "    a    ",
+      "    aa   ",
+      "    a    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ]
+}

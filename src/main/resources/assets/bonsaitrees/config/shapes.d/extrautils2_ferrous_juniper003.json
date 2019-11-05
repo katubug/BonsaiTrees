@@ -1,0 +1,70 @@
+{
+  "type": "extrautils2:ferrous_juniper",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extrautils2:ironwood_log",
+      "meta": 2
+    },
+    "b": {
+      "name": "extrautils2:ironwood_leaves",
+      "meta": 4
+    },
+    "c": {
+      "name": "extrautils2:ironwood_leaves",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " bbbb",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  c  ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ccc ",
+      " cac ",
+      "bcacb",
+      "bcacb",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  c  ",
+      " cc  ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      "bbbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

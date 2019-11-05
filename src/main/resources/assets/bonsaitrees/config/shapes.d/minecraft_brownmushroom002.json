@@ -1,0 +1,111 @@
+{
+  "type": "minecraft:brownmushroom",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:brown_mushroom_block",
+      "meta": 5
+    },
+    "b": {
+      "name": "minecraft:brown_mushroom_block",
+      "meta": 3
+    },
+    "c": {
+      "name": "minecraft:brown_mushroom_block",
+      "meta": 6
+    },
+    "d": {
+      "name": "minecraft:brown_mushroom_block",
+      "meta": 10
+    },
+    "e": {
+      "name": "minecraft:brown_mushroom_block",
+      "meta": 9
+    },
+    "f": {
+      "name": "minecraft:brown_mushroom_block",
+      "meta": 1
+    },
+    "g": {
+      "name": "minecraft:brown_mushroom_block",
+      "meta": 4
+    },
+    "h": {
+      "name": "minecraft:brown_mushroom_block",
+      "meta": 2
+    },
+    "i": {
+      "name": "minecraft:brown_mushroom_block",
+      "meta": 7
+    },
+    "j": {
+      "name": "minecraft:brown_mushroom_block",
+      "meta": 8
+    }
+  },
+  "shape": [
+    [
+      " bccce ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "baaaaae",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "haaaaaj",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "haaaaaj",
+      "   d   ",
+      "   d   ",
+      "   d   ",
+      "   d   ",
+      "   d   ",
+      "   d   "
+    ],
+    [
+      "haaaaaj",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "faaaaai",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      " fgggi ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

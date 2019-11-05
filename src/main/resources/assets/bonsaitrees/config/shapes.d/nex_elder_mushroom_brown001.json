@@ -1,0 +1,56 @@
+{
+  "type": "nex:elder_mushroom_brown",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "nex:elder_mushroom_cap",
+      "meta": 0
+    },
+    "b": {
+      "name": "nex:elder_mushroom_stem",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      " a a ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "a   a",
+      " aaa ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "aaaaa",
+      "  b  ",
+      "  b  ",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "a   a",
+      " aaa ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " a a ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

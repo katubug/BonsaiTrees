@@ -1,0 +1,65 @@
+{
+  "type": "pvj:orange_maple",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "pvj:log_maple",
+      "meta": 0
+    },
+    "b": {
+      "name": "pvj:leaves_orange_maple",
+      "meta": 0
+    },
+    "c": {
+      "name": "pvj:leaves_orange_maple",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " bbb ",
+      "bbbb ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      " ccc ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ccc ",
+      " cac ",
+      "bcacb",
+      "bcacb",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  c  ",
+      "  bc ",
+      "bcccb",
+      "bcccb",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      "bbbb ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

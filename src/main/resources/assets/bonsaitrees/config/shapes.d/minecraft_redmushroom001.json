@@ -1,0 +1,93 @@
+{
+  "type": "minecraft:redmushroom",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 10
+    },
+    "b": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 9
+    },
+    "c": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 7
+    },
+    "d": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 8
+    },
+    "e": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 6
+    },
+    "f": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 1
+    },
+    "g": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 4
+    },
+    "h": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 2
+    },
+    "i": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 3
+    },
+    "j": {
+      "name": "minecraft:red_mushroom_block",
+      "meta": 5
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      " ieb ",
+      " ieb ",
+      " ieb ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ieb ",
+      "i   b",
+      "i   b",
+      "i   b",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " hjd ",
+      "h a d",
+      "h a d",
+      "h a d",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      " fgc ",
+      "f   c",
+      "f   c",
+      "f   c",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " fgc ",
+      " fgc ",
+      " fgc ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

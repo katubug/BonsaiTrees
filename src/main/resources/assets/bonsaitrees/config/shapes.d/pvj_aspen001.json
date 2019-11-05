@@ -1,0 +1,163 @@
+{
+  "type": "pvj:aspen",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "pvj:leaves_aspen",
+      "meta": 1
+    },
+    "b": {
+      "name": "pvj:log_aspen",
+      "meta": 0
+    },
+    "c": {
+      "name": "pvj:leaves_aspen",
+      "meta": 0
+    },
+    "d": {
+      "name": "pvj:log_aspen",
+      "meta": 2
+    },
+    "e": {
+      "name": "pvj:log_aspen",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "    c    ",
+      "    c    ",
+      "    cc   ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "   ccc   ",
+      "   cec   ",
+      "   cac   ",
+      "    cc   ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "    c    ",
+      "    cc   ",
+      "    c    ",
+      "   aca   ",
+      "   aea   ",
+      "   cac   ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "    c    ",
+      "    c    ",
+      "   cccc  ",
+      "  caea   ",
+      "   acc c ",
+      " ccacaac ",
+      " caaeaac ",
+      " caacacc ",
+      "    c    ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "   ccc   ",
+      "   cbc   ",
+      "  cabac  ",
+      "  cdbdc  ",
+      "  ccbcccc",
+      "cccabacdc",
+      "cdddbddac",
+      "caccbcac ",
+      "   cbc   ",
+      "    b    ",
+      "    b    ",
+      "    b    ",
+      "    b    "
+    ],
+    [
+      "    c    ",
+      "   ccc   ",
+      "  ccccc  ",
+      "   aea   ",
+      "  caca c ",
+      " caacaac ",
+      " caaeacc ",
+      "cccacac  ",
+      "   cc    ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "    c    ",
+      "    cc   ",
+      "    cc   ",
+      "   aca   ",
+      "   aea   ",
+      "   cac   ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "   ccc   ",
+      "   cec   ",
+      "   cac   ",
+      "    c    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "   ccc   ",
+      "    c    ",
+      "    c    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ]
+}

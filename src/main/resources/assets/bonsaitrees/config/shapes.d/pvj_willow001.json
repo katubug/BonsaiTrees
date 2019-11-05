@@ -1,0 +1,139 @@
+{
+  "type": "pvj:willow",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "pvj:leaves_willow",
+      "meta": 0
+    },
+    "b": {
+      "name": "pvj:log_willow",
+      "meta": 0
+    },
+    "c": {
+      "name": "minecraft:vine",
+      "meta": 8
+    },
+    "d": {
+      "name": "minecraft:vine",
+      "meta": 4
+    },
+    "e": {
+      "name": "minecraft:vine",
+      "meta": 2
+    },
+    "f": {
+      "name": "pvj:leaves_willow",
+      "meta": 1
+    },
+    "g": {
+      "name": "minecraft:vine",
+      "meta": 10
+    },
+    "h": {
+      "name": "minecraft:vine",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "           ",
+      "           ",
+      "     aaaa  ",
+      "     aaa   ",
+      "     afaff ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "     gaaaa ",
+      "     eaba  ",
+      "     aff   ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "      a a  ",
+      "    eaaaa  ",
+      "    haaba  ",
+      "    eeffff ",
+      "    eaaa   ",
+      "    e      ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "     aaaa  ",
+      "   aaaaaae ",
+      " aaaaaabae ",
+      "  aaaaaffa ",
+      "     af fe ",
+      "         e ",
+      "         e ",
+      "         e "
+    ],
+    [
+      " aad       ",
+      "  aaaaa a  ",
+      " aaaaaaaaad",
+      " aaaaaabaad",
+      " aaaaaffafd",
+      "    aafff d",
+      "     affa d",
+      "          d",
+      "     b    d"
+    ],
+    [
+      " aad       ",
+      "aaaaaaaa   ",
+      " abbbaaaa  ",
+      " abbbbaaac ",
+      " aababbbaf ",
+      "   dabfb c ",
+      "   d abb c ",
+      "     bbb c ",
+      "    bbb    "
+    ],
+    [
+      " aa        ",
+      " aaaaaaa   ",
+      " aaaaaaa   ",
+      "aaaaaaaaa  ",
+      "aaaaaaaaa  ",
+      "    aaa    ",
+      "    aaa    ",
+      "           ",
+      "     b     "
+    ],
+    [
+      "           ",
+      " aaaa  c   ",
+      "     aaa   ",
+      " aaaaaaaa  ",
+      "    aa a   ",
+      "     aaa   ",
+      "       c   ",
+      "       c   ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "      c    ",
+      "   c  c    ",
+      "   c  c    ",
+      "   c  c    ",
+      "   c       ",
+      "   c       ",
+      "   c       "
+    ]
+  ]
+}

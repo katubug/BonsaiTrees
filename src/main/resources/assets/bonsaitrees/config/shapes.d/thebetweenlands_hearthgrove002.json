@@ -1,0 +1,129 @@
+{
+  "type": "thebetweenlands:hearthgrove",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "thebetweenlands:log_hearthgrove",
+      "meta": 1
+    },
+    "b": {
+      "name": "thebetweenlands:leaves_hearthgrove_tree",
+      "meta": 0
+    },
+    "c": {
+      "name": "thebetweenlands:log_hearthgrove",
+      "meta": 3
+    },
+    "d": {
+      "name": "thebetweenlands:hanger",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "    b   ",
+      "  bbbb  ",
+      " bbbbbb ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "   bbb  ",
+      "  bbbbb ",
+      "bbbb bb ",
+      "  d     ",
+      "  d     ",
+      "  d     ",
+      "  d     ",
+      "        ",
+      "        ",
+      "        ",
+      "   c c  ",
+      "   c  c ",
+      "  c   c "
+    ],
+    [
+      "  bbbbb ",
+      " bbb bbb",
+      "bbb c bb",
+      "  d a   ",
+      "  d a   ",
+      "  d a   ",
+      "  d a   ",
+      "    a   ",
+      "    a   ",
+      "    a   ",
+      "    a   ",
+      "        ",
+      "        "
+    ],
+    [
+      "   bbb  ",
+      "  bbbbb ",
+      "bbbccbbb",
+      "   cc   ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "    c   ",
+      "    c   ",
+      "    c   "
+    ],
+    [
+      "    b   ",
+      "  bbbbb ",
+      " bbbbbbb",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "    b   ",
+      "  bbbbb ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "   bbb  ",
+      "    d   ",
+      "    d   ",
+      "    d   ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ]
+  ]
+}

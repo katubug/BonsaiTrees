@@ -1,0 +1,128 @@
+{
+  "type": "thebetweenlands:hearthgrove",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "thebetweenlands:log_hearthgrove",
+      "meta": 1
+    },
+    "b": {
+      "name": "thebetweenlands:leaves_hearthgrove_tree",
+      "meta": 0
+    },
+    "c": {
+      "name": "thebetweenlands:hanger",
+      "meta": 1
+    },
+    "d": {
+      "name": "thebetweenlands:log_hearthgrove",
+      "meta": 3
+    }
+  },
+  "shape": [
+    [
+      "      ",
+      "   b  ",
+      "  bbb ",
+      "   c  ",
+      "   c  ",
+      "   c  ",
+      "   c  ",
+      "   c  ",
+      "      ",
+      "      ",
+      "      "
+    ],
+    [
+      "   b  ",
+      " bbbbb",
+      " bbbbb",
+      "  c   ",
+      "  c   ",
+      "  c   ",
+      "      ",
+      "      ",
+      "      ",
+      "      ",
+      "      "
+    ],
+    [
+      "  bbb ",
+      " bbbbb",
+      " bb bb",
+      " c    ",
+      " c    ",
+      "      ",
+      "      ",
+      "      ",
+      "      ",
+      "  d   ",
+      " d    "
+    ],
+    [
+      " bbbbb",
+      "bbb bb",
+      "bb d b",
+      "   a  ",
+      "   a  ",
+      "   a  ",
+      "   a  ",
+      "   a  ",
+      "   a  ",
+      "   ad ",
+      "    d "
+    ],
+    [
+      "  bbb ",
+      " bbbbb",
+      "bbddbb",
+      "  ddc ",
+      "    c ",
+      "    c ",
+      "    c ",
+      "      ",
+      "      ",
+      "  d   ",
+      "  d   "
+    ],
+    [
+      "   b  ",
+      " bbbbb",
+      "bbbbbb",
+      "    c ",
+      "    c ",
+      "    c ",
+      "    c ",
+      "      ",
+      "      ",
+      "      ",
+      "      "
+    ],
+    [
+      "      ",
+      "   b  ",
+      " bbbbb",
+      "     c",
+      "      ",
+      "      ",
+      "      ",
+      "      ",
+      "      ",
+      "      ",
+      "      "
+    ],
+    [
+      "      ",
+      "      ",
+      "  bbb ",
+      "      ",
+      "      ",
+      "      ",
+      "      ",
+      "      ",
+      "      ",
+      "      ",
+      "      "
+    ]
+  ]
+}

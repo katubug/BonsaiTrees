@@ -1,0 +1,85 @@
+{
+  "type": "pvj:red_maple",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "pvj:log_maple",
+      "meta": 0
+    },
+    "b": {
+      "name": "pvj:leaves_red_maple",
+      "meta": 0
+    },
+    "c": {
+      "name": "pvj:leaves_red_maple",
+      "meta": 1
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "bbbb ",
+      "bbbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  cc ",
+      "bbbcb",
+      "bccbb",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " ccc ",
+      " cac ",
+      "bcacb",
+      "bcabb",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  c  ",
+      "  cc ",
+      "bcccb",
+      "bccbb",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " bbb ",
+      "bbbbb",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ]
+}

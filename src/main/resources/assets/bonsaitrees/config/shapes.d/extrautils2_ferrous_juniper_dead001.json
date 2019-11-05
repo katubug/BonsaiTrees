@@ -1,0 +1,157 @@
+{
+  "type": "extrautils2:ferrous_juniper_dead",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "extrautils2:ironwood_leaves",
+      "meta": 0
+    },
+    "b": {
+      "name": "extrautils2:ironwood_log",
+      "meta": 3
+    },
+    "c": {
+      "name": "extrautils2:ironwood_leaves",
+      "meta": 1
+    },
+    "d": {
+      "name": "minecraft:fire",
+      "meta": 6
+    },
+    "e": {
+      "name": "minecraft:fire",
+      "meta": 2
+    },
+    "f": {
+      "name": "minecraft:fire",
+      "meta": 5
+    },
+    "g": {
+      "name": "extrautils2:ironwood_leaves",
+      "meta": 3
+    },
+    "h": {
+      "name": "extrautils2:ironwood_leaves",
+      "meta": 5
+    },
+    "i": {
+      "name": "minecraft:fire",
+      "meta": 3
+    },
+    "j": {
+      "name": "minecraft:fire",
+      "meta": 8
+    },
+    "k": {
+      "name": "extrautils2:ironwood_leaves",
+      "meta": 7
+    },
+    "l": {
+      "name": "minecraft:fire",
+      "meta": 4
+    },
+    "m": {
+      "name": "minecraft:fire",
+      "meta": 0
+    },
+    "n": {
+      "name": "minecraft:fire",
+      "meta": 7
+    },
+    "o": {
+      "name": "minecraft:fire",
+      "meta": 9
+    },
+    "p": {
+      "name": "minecraft:fire",
+      "meta": 10
+    },
+    "q": {
+      "name": "minecraft:fire",
+      "meta": 1
+    },
+    "r": {
+      "name": "minecraft:fire",
+      "meta": 11
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   l d ",
+      "  dql  ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "   i   ",
+      "   d n ",
+      " nkhgcf",
+      " ccchh ",
+      "  ldo  ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "   m   ",
+      "  fcl  ",
+      " licl  ",
+      "nacchh ",
+      "pccack ",
+      " j  e  ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  e i  ",
+      " ecgci ",
+      " nhbcf ",
+      "iccbcg ",
+      " kcbhhe",
+      "  rb l ",
+      "   b   ",
+      "   b   ",
+      "   b   "
+    ],
+    [
+      "       ",
+      "  egi  ",
+      "  khfl ",
+      " chcccf",
+      "lcacac ",
+      " d     ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  ili  ",
+      " hcgcl ",
+      " cccc  ",
+      "   j   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "  f l  ",
+      "   q   ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

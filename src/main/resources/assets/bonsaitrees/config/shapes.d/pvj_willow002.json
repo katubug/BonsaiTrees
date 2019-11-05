@@ -1,0 +1,192 @@
+{
+  "type": "pvj:willow",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "pvj:leaves_willow",
+      "meta": 1
+    },
+    "b": {
+      "name": "pvj:log_willow",
+      "meta": 0
+    },
+    "c": {
+      "name": "minecraft:vine",
+      "meta": 2
+    },
+    "d": {
+      "name": "pvj:leaves_willow",
+      "meta": 0
+    },
+    "e": {
+      "name": "minecraft:vine",
+      "meta": 4
+    },
+    "f": {
+      "name": "minecraft:vine",
+      "meta": 1
+    },
+    "g": {
+      "name": "minecraft:vine",
+      "meta": 8
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   c   ",
+      "   c   ",
+      "   c   ",
+      "   c   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  aa   ",
+      " caaa  ",
+      " daaaa ",
+      " c     ",
+      " c     ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " aadaa ",
+      "faabac ",
+      "faab c ",
+      "f    c ",
+      "     c ",
+      "     c ",
+      "     c ",
+      "     c "
+    ],
+    [
+      "       ",
+      " aaaa  ",
+      " daaaa ",
+      " aabade",
+      "  aaa e",
+      "      e",
+      "      e",
+      "      e",
+      "      e",
+      "      e"
+    ],
+    [
+      "   c   ",
+      "fadaa  ",
+      "faaaaa ",
+      "fadbaae",
+      "fdaaaae",
+      "     ce",
+      "     ce",
+      "     ce",
+      "     c ",
+      "     c "
+    ],
+    [
+      "  aae  ",
+      " adaaa ",
+      " adada ",
+      " aabeg ",
+      " aabaa ",
+      "  a aae",
+      "     ge",
+      "     ge",
+      "     ge",
+      "      e"
+    ],
+    [
+      " aaa   ",
+      " aaaaa ",
+      "  aaa  ",
+      " adbaa ",
+      " aabaa ",
+      "  ab g ",
+      "     g ",
+      "     g ",
+      "     g ",
+      "       "
+    ],
+    [
+      "  a a  ",
+      " aaa   ",
+      " aabaa ",
+      "fdabaa ",
+      "faabaa ",
+      "f ab   ",
+      "f  b   ",
+      "f  b   ",
+      "       ",
+      "       "
+    ],
+    [
+      " aaaaa ",
+      " aaaaa ",
+      "faaba  ",
+      "faaaaa ",
+      "fdaaaa ",
+      "f      ",
+      "f      ",
+      "f  b   ",
+      "f  b   ",
+      "   b   "
+    ],
+    [
+      " aaaad ",
+      " aabaa ",
+      " aaaaa ",
+      " aaaaae",
+      "      e",
+      "      e",
+      "      e",
+      "      e",
+      "   b  e",
+      "  bbb e"
+    ],
+    [
+      " aadaa ",
+      " ddbaa ",
+      " daaaa ",
+      "  aaag ",
+      "     g ",
+      "     g ",
+      "     g ",
+      "       ",
+      "       ",
+      "   b   "
+    ],
+    [
+      " dadda ",
+      "  aad  ",
+      " aada  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "  a    ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ]
+}

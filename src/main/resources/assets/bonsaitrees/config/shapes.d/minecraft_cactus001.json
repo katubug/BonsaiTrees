@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:cactus",
+  "version": 2,
+  "ref": {
+    "a": {
+      "name": "minecraft:cactus",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      " a",
+      " a"
+    ]
+  ]
+}
